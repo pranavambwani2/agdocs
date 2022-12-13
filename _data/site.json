@@ -15,7 +15,7 @@
   "enableDarkMode": true,
   "description": "Create a modern notebook to document or explain almost anything with spacebook.app",
   "enableContact": false,
-  "navigationStyle": "vertical",
+  "navigationStyle": "horizontal",
   "enableNetlifyCMS": true,
   "enableEditButton": false
 }

@@ -5,7 +5,7 @@ permalink: /
 eleventyNavigation:
   key: Hello
   order: 0
-  title: Hello, world.
+  title: Resource Hub
 ---
 ## Links
 

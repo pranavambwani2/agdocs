@@ -24,7 +24,7 @@ module.exports = {
           css: {
             maxWidth: '100%',
             a: {
-              color: '#1D4ED8',
+              color: '#0037FF',
               '&:hover': {
               color: '#1E3A8A',
               },
